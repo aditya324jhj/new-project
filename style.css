@@ -1,0 +1,64 @@
+.text_image_and_result{
+    background-color: white;
+    width: 700px;
+    padding: 15px;
+    margin-bottom: 0px;
+ 
+    box-shadow: 5px 5px 18px yellow; 
+}
+.j{
+    font-size: 22px;
+color: rgb(241, 79, 241);
+}
+.i{
+    color: rgb(248, 52, 52);
+}
+.bob3{
+    border-radius: 25px;
+    background-color: rgba(141, 132, 132, 0.835);
+    text-align: center;
+    padding-top: 10px;
+    
+    padding-bottom: 10px;
+}
+.k
+{
+    font-size: 30px;
+}
+.bob2
+{ 
+    color: rgb(131, 113, 235);
+font-size: 20;
+}
+.bob1
+{
+    font-size: 20; 
+}
+.rt {
+    position: relative;
+    top: 20px;
+    border: none;
+    height: 3px;
+    background: rgb(93, 241, 204);
+    margin-bottom: 50px;
+}
+.er
+{       
+    padding-bottom: 20;
+    font-family: 'Akronim', cursive;
+}
+.tr{
+    padding-bottom: 40;
+}
+.tf{
+    position: relative;
+    top: 20px;
+    border: none;
+    height: 2px;
+    background: rgb(15, 15, 15);
+    margin-bottom: 50px;
+}
+body
+{
+    background: url(4.jpg);
+}
